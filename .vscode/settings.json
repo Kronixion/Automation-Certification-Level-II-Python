@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "c:/Users/rasig/Desktop/Robocorp/Automation Certification Level II - Python/."
+    ],
+    "python.terminal.activateEnvironment": false
+}
